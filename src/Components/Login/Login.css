@@ -1,0 +1,12 @@
+.Login {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  height: 50vh;
+  align-items: center;
+}
+
+.title-login {
+  text-align: center;
+}
